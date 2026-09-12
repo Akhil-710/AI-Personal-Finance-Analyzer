@@ -32,6 +32,7 @@ Early-career professionals
 
 Young adults who want a simple view of their personal finances
 
+
 🧩 MVP
 
 The MVP focuses on the core workflow:
@@ -40,7 +41,7 @@ Upload transactions → Clean data → Analyze spending → Set budgets → Iden
 
 Core MVP Features
 
-Upload a transaction CSV
+Upload a transaction CSV(The uploaded CSV must contain the required columns: Date, Description, Amount, Transaction Type, and Category.)
 
 Validate required CSV columns
 
